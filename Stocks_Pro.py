@@ -1,3 +1,8 @@
+#Chrishen Tissera
+#CS175L-02
+#Stocks Assignment
+
+
 A=float(input("How many shares were purchased? "))
 B=float(input("How much were the shares purchased for? "))
 C=float(input("What percentage does the stockbroker make on commision? "))
